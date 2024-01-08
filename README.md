@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaaeldin Abdelaal</h1>
-<h3 align="center">A passionate software and machine learning engineer</h3>
+<h3 align="center">A passionate software, machine learning, and mechatronics engineer</h3>
 
 - 🔭 I’m currently working on **3D reconstruction from images**
 
